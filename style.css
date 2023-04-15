@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(rgba(10, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url("/Img/food.jpg");
+    height: 100vh;
+}
+
+
+h1 {
+    color: antiquewhite;
+    font-family: 'Dongle', sans-serif;
+    font-size: 80px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-family: 'Nova Oval', cursive;
+    color: coral;
+}
+
+li {
+    color: antiquewhite;
+    font-family: 'DynaPuff', cursive;
+    font-size: large;
+    line-height: 35px;
+}
+
+
+main {
+   width: 50%;
+   margin: 0 auto;
+   border: 1px dashed rgb(219, 118, 24);
+   padding: 20px 50px;
+}
+
+.chiken {    
+    width: 100%;
+    text-align: center;
+}
